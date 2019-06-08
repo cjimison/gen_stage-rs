@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"crates/gen_stage",
+	"examples/rate_limiter",
+]
