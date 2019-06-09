@@ -4,3 +4,10 @@ members = [
 	"crates/gen_stage",
 	"examples/rate_limiter",
 ]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
+
