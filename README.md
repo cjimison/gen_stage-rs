@@ -7,3 +7,5 @@ More details to come.
 In Progress:
 
 * CI/CD Integration
+
+Testing
