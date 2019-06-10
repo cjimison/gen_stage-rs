@@ -1,5 +1,3 @@
-foobar
-
 #[cfg(test)]
 mod tests {
     #[test]
