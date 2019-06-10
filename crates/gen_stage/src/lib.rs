@@ -1,4 +1,4 @@
-foo
+foobar
 
 #[cfg(test)]
 mod tests {
